@@ -1,0 +1,20 @@
+html, body, main {
+    height: 100%;
+}
+
+body {
+    background: #45101e;
+}
+
+rect {
+    fill: #7d4251;
+}
+
+svg text {
+    text-anchor: middle;
+    fill: white;
+}
+
+.ui.dimmer {
+    background-color: #181214;
+}

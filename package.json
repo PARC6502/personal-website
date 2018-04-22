@@ -1,0 +1,13 @@
+{
+  "name": "personal-website",
+  "version": "0.0.1",
+  "description": "Ibby's personal website",
+  "main": "index.html",
+  "repository": "https://github.com/PARC6502/personal-website.git",
+  "author": "parc6502 <ibrahim@serafy.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^5.8.0",
+    "semantic-ui": "^2.3.1"
+  }
+}
