@@ -1,3 +1,21 @@
 /*******************************
          Site Overrides
 *******************************/
+
+.ui.text.svg {
+    text {
+        text-anchor: middle;
+    }
+    rect {
+        fill: @secondaryColor;
+    }
+}
+
+.ui.dark.earth.text.svg {
+    text {
+        fill: @secondaryColor;
+    }
+    rect {
+        fill: @darkEarth;
+    }
+}

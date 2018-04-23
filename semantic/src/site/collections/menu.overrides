@@ -1,3 +1,64 @@
 /*******************************
          Site Overrides
 *******************************/
+
+.ui.menu .red.item,
+.ui.red.menu .item {
+  border-color: @red !important;
+  color: @red !important;
+}
+.ui.menu .orange.item,
+.ui.orange.menu .item {
+  border-color: @orange !important;
+  color: @orange !important;
+}
+.ui.menu .yellow.item,
+.ui.yellow.menu .item {
+  border-color: @yellow !important;
+  color: @yellow !important;
+}
+.ui.menu .olive.item,
+.ui.olive.menu .item {
+  border-color: @olive !important;
+  color: @olive !important;
+}
+.ui.menu .green.item,
+.ui.green.menu .item {
+  border-color: @green !important;
+  color: @green !important;
+}
+.ui.menu .teal.item,
+.ui.teal.menu .item {
+  border-color: @teal !important;
+  color: @teal !important;
+}
+.ui.menu .blue.item,
+.ui.blue.menu .item {
+  border-color: @blue !important;
+  color: @blue !important;
+}
+.ui.menu .violet.item,
+.ui.violet.menu .item {
+  border-color: @violet !important;
+  color: @violet !important;
+}
+.ui.menu .purple.item,
+.ui.purple.menu .item {
+  border-color: @purple !important;
+  color: @purple !important;
+}
+.ui.menu .pink.item,
+.ui.pink.menu .item {
+  border-color: @pink !important;
+  color: @pink !important;
+}
+.ui.menu .brown.item,
+.ui.brown.menu .item {
+  border-color: @brown !important;
+  color: @brown !important;
+}
+.ui.menu .grey.item,
+.ui.grey.menu .item {
+  border-color: @grey !important;
+  color: @grey !important;
+}

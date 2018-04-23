@@ -1,4 +1,19 @@
 /*******************************
      User Global Variables
 *******************************/
-@violet: #815460;
+@primaryColor: @skyColor;
+@secondaryColor: @almostWhite;
+
+@green: @darkEarth;
+@blue: @skyColor;
+@brown: @mediumEarth;
+@grey: @lightEarth;
+
+
+@skyColor: #659DBD;
+@darkEarth: #8D8741;
+@mediumEarth: #BC986A;
+@lightEarth: #DAAD86;
+@almostWhite: #FBEEC1;
+
+@pageBackground: @skyColor;

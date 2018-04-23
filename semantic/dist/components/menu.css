@@ -25,7 +25,7 @@
   display: flex;
   margin: 1rem 0em;
   font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
-  background: #FFFFFF;
+  background: #FBEEC1;
   font-weight: normal;
   border: 1px solid rgba(34, 36, 38, 0.15);
   -webkit-box-shadow: 0px 1px 2px 0 rgba(34, 36, 38, 0.15);
@@ -85,7 +85,7 @@
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  background: none;
+  background: #FBEEC1;
   padding: 0.92857143em 1.14285714em;
   text-transform: none;
   color: rgba(0, 0, 0, 0.87);
@@ -1339,8 +1339,8 @@ Floated Menu / Item
 }
 .ui.menu .green.active.item,
 .ui.green.menu .active.item {
-  border-color: #21BA45 !important;
-  color: #21BA45 !important;
+  border-color: #8D8741 !important;
+  color: #8D8741 !important;
 }
 .ui.menu .teal.active.item,
 .ui.teal.menu .active.item {
@@ -1349,13 +1349,13 @@ Floated Menu / Item
 }
 .ui.menu .blue.active.item,
 .ui.blue.menu .active.item {
-  border-color: #2185D0 !important;
-  color: #2185D0 !important;
+  border-color: #659DBD !important;
+  color: #659DBD !important;
 }
 .ui.menu .violet.active.item,
 .ui.violet.menu .active.item {
-  border-color: #815460 !important;
-  color: #815460 !important;
+  border-color: #6435C9 !important;
+  color: #6435C9 !important;
 }
 .ui.menu .purple.active.item,
 .ui.purple.menu .active.item {
@@ -1369,13 +1369,13 @@ Floated Menu / Item
 }
 .ui.menu .brown.active.item,
 .ui.brown.menu .active.item {
-  border-color: #A5673F !important;
-  color: #A5673F !important;
+  border-color: #BC986A !important;
+  color: #BC986A !important;
 }
 .ui.menu .grey.active.item,
 .ui.grey.menu .active.item {
-  border-color: #767676 !important;
-  color: #767676 !important;
+  border-color: #DAAD86 !important;
+  color: #DAAD86 !important;
 }
 
 /*--------------
@@ -1551,7 +1551,7 @@ Floated Menu / Item
 /* Green */
 .ui.inverted.menu .green.active.item,
 .ui.inverted.green.menu {
-  background-color: #21BA45;
+  background-color: #8D8741;
 }
 .ui.inverted.green.menu .item:before {
   background-color: rgba(34, 36, 38, 0.1);
@@ -1575,7 +1575,7 @@ Floated Menu / Item
 /* Blue */
 .ui.inverted.menu .blue.active.item,
 .ui.inverted.blue.menu {
-  background-color: #2185D0;
+  background-color: #659DBD;
 }
 .ui.inverted.blue.menu .item:before {
   background-color: rgba(34, 36, 38, 0.1);
@@ -1587,7 +1587,7 @@ Floated Menu / Item
 /* Violet */
 .ui.inverted.menu .violet.active.item,
 .ui.inverted.violet.menu {
-  background-color: #815460;
+  background-color: #6435C9;
 }
 .ui.inverted.violet.menu .item:before {
   background-color: rgba(34, 36, 38, 0.1);
@@ -1623,7 +1623,7 @@ Floated Menu / Item
 /* Brown */
 .ui.inverted.menu .brown.active.item,
 .ui.inverted.brown.menu {
-  background-color: #A5673F;
+  background-color: #BC986A;
 }
 .ui.inverted.brown.menu .item:before {
   background-color: rgba(34, 36, 38, 0.1);
@@ -1635,7 +1635,7 @@ Floated Menu / Item
 /* Grey */
 .ui.inverted.menu .grey.active.item,
 .ui.inverted.grey.menu {
-  background-color: #767676;
+  background-color: #DAAD86;
 }
 .ui.inverted.grey.menu .item:before {
   background-color: rgba(34, 36, 38, 0.1);
@@ -2050,3 +2050,63 @@ Floated Menu / Item
          Site Overrides
 *******************************/
 
+.ui.menu .red.item,
+.ui.red.menu .item {
+  border-color: #DB2828 !important;
+  color: #DB2828 !important;
+}
+.ui.menu .orange.item,
+.ui.orange.menu .item {
+  border-color: #F2711C !important;
+  color: #F2711C !important;
+}
+.ui.menu .yellow.item,
+.ui.yellow.menu .item {
+  border-color: #FBBD08 !important;
+  color: #FBBD08 !important;
+}
+.ui.menu .olive.item,
+.ui.olive.menu .item {
+  border-color: #B5CC18 !important;
+  color: #B5CC18 !important;
+}
+.ui.menu .green.item,
+.ui.green.menu .item {
+  border-color: #8D8741 !important;
+  color: #8D8741 !important;
+}
+.ui.menu .teal.item,
+.ui.teal.menu .item {
+  border-color: #00B5AD !important;
+  color: #00B5AD !important;
+}
+.ui.menu .blue.item,
+.ui.blue.menu .item {
+  border-color: #659DBD !important;
+  color: #659DBD !important;
+}
+.ui.menu .violet.item,
+.ui.violet.menu .item {
+  border-color: #6435C9 !important;
+  color: #6435C9 !important;
+}
+.ui.menu .purple.item,
+.ui.purple.menu .item {
+  border-color: #A333C8 !important;
+  color: #A333C8 !important;
+}
+.ui.menu .pink.item,
+.ui.pink.menu .item {
+  border-color: #E03997 !important;
+  color: #E03997 !important;
+}
+.ui.menu .brown.item,
+.ui.brown.menu .item {
+  border-color: #BC986A !important;
+  color: #BC986A !important;
+}
+.ui.menu .grey.item,
+.ui.grey.menu .item {
+  border-color: #DAAD86 !important;
+  color: #DAAD86 !important;
+}
