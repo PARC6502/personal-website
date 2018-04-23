@@ -14,6 +14,7 @@
 *******************************/
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700,400italic,700italic&subset=latin');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Roboto:300i,400');
 html,
 body {
   height: 100%;
@@ -27,7 +28,7 @@ body {
   overflow-x: hidden;
   min-width: 320px;
   background: #E6CBC8;
-  font-family: 'Roboto', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-family: "Roboto";
   font-size: 13px;
   line-height: 1.33;
   color: #212121;
@@ -44,7 +45,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Roboto', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-family: 'Dancing Script', cursive;
   line-height: 1.33em;
   margin: calc(2rem -  0.165em ) 0em 1rem;
   font-weight: 400;

@@ -1,6 +1,11 @@
 /*******************************
      User Global Variables
 *******************************/
+
+@pageFont: "Roboto";
+@headerFont: 'Dancing Script', cursive;
+@headerFontWeight: 400;
+
 @primaryColor: @red;
 @secondaryColor: @pink;
 
