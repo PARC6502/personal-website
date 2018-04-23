@@ -643,19 +643,19 @@
 
 /* Red */
 .ui.red.table {
-  border-top: 0.2em solid #DB2828;
+  border-top: 0.2em solid #a33327;
 }
 .ui.inverted.red.table {
-  background-color: #DB2828 !important;
+  background-color: #a33327 !important;
   color: #FFFFFF !important;
 }
 
 /* Orange */
 .ui.orange.table {
-  border-top: 0.2em solid #F2711C;
+  border-top: 0.2em solid #c7493a;
 }
 .ui.inverted.orange.table {
-  background-color: #F2711C !important;
+  background-color: #c7493a !important;
   color: #FFFFFF !important;
 }
 
@@ -724,10 +724,10 @@
 
 /* Pink */
 .ui.pink.table {
-  border-top: 0.2em solid #E03997;
+  border-top: 0.2em solid #E6CBC8;
 }
 .ui.inverted.pink.table {
-  background-color: #E03997 !important;
+  background-color: #E6CBC8 !important;
   color: #FFFFFF !important;
 }
 

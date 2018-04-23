@@ -26,7 +26,7 @@ body {
   padding: 0px;
   overflow-x: hidden;
   min-width: 320px;
-  background: #659DBD;
+  background: #E6CBC8;
   font-family: 'Roboto', 'Helvetica Neue', Arial, Helvetica, sans-serif;
   font-size: 13px;
   line-height: 1.33;
@@ -200,11 +200,29 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
   text-anchor: middle;
 }
 .ui.text.svg rect {
-  fill: #FBEEC1;
+  fill: #E6CBC8;
 }
 .ui.dark.earth.text.svg text {
-  fill: #FBEEC1;
+  fill: #E6CBC8;
 }
 .ui.dark.earth.text.svg rect {
   fill: #8D8741;
+}
+.ui.secondary.text.svg text {
+  fill: #DAAD86;
+}
+.ui.secondary.text.svg rect {
+  fill: #E6CBC8;
+}
+.ui.grey.text.svg text {
+  fill: #E6CBC8;
+}
+.ui.grey.text.svg rect {
+  fill: #DAAD86;
+}
+.ui.red.text.svg text {
+  fill: white;
+}
+.ui.red.text.svg rect {
+  fill: #a33327;
 }

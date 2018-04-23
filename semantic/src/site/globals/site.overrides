@@ -19,3 +19,30 @@
         fill: @darkEarth;
     }
 }
+
+.ui.secondary.text.svg {
+    text {
+        fill: @grey;
+    }
+    rect {
+        fill: @secondaryColor;
+    }
+}
+
+.ui.grey.text.svg {
+    text {
+        fill: @secondaryColor;
+    }
+    rect {
+        fill: @grey;
+    }
+}
+
+.ui.red.text.svg {
+    text {
+        fill: white;
+    }
+    rect {
+        fill: @red;
+    }
+}
