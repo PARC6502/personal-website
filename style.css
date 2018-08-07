@@ -1,13 +1,44 @@
-html, body, main {
+html, body {
     height: 100%;
-    background-color: #1B2B34;
+    background-color: #09131b;
+}
+
+main {
+    width: 75%;
+    height: 80%;
+    margin: 0 auto;
+    background-color: #112435;
+    color: #f8f8f2;
+    font-size: 1.2rem;
+    font-family: 'Inconsolata', monospace;
 }
 
 #ibby {
     /* font-family: 'Dancing Script', cursive; */
     /* color: #C594C5; */
-    font-size: 1.5rem;
-    color: #CDD3DE;
+    /* font-size: 1.5rem; */
+    color: #F08047;
+}
+
+.function {
+    color: #A6E22E;
+}
+
+.operator {
+    color: #7BD827;
+}
+
+.string {
+    color: #F08047;
+}
+
+a.variable {
+    color: #82C6E0;
+    text-decoration: none;
+}
+
+a.variable:hover {
+    color: rgb(79, 119, 134);
 }
 
 /* #quote {
