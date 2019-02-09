@@ -1,7 +1,0 @@
-/*******************************
-    User Variable Overrides
-*******************************/
-@background: white;
-@itemBackground: white;
-
-@invertedItemTextColor: white;
